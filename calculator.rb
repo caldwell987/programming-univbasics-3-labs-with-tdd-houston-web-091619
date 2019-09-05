@@ -3,4 +3,4 @@ second_number = 6.to_i
 sum = (first_number + second_number)
 puts sum
 difference = (first_number - second_number)
-product _
+product = (first_number * second_number)
